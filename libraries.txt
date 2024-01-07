@@ -1,0 +1,17 @@
+#Preprocess data and image
+opencv-python==4.6.0.66
+
+#Render the results
+matplotlib==3.6.2
+
+#Create GIFs
+imageio==2.23.0
+
+#Download data seamlessly from google drive
+gdown==4.6.0
+
+#Construct Deep Neural Networks(DNNS)
+tensorflow==2.10.1
+
+#Notebook
+jupyter
